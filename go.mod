@@ -1,3 +1,3 @@
-module github.com/gordonklaus/portaudio
+module github.com/davidapp/portaudio
 
-go 1.18
+go 1.22

@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/gordonklaus/portaudio"
+	"github.com/davidapp/portaudio"
 	"math/rand"
 	"time"
 )
